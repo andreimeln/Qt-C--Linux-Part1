@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file alias="table">mail-send.svg</file>
+        <file alias="exit">document-open.svg</file>
+    </qresource>
+    <qresource prefix="/lang">
+        <file alias="isl">biblio_isl.ts</file>
+        <file alias="rus">biblio_rus.ts</file>
+    </qresource>
+</RCC>
